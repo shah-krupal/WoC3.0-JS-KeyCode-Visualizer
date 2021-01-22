@@ -1,0 +1,28 @@
+*{
+    background-color: #E6E6E6;
+    user-select: none;
+}
+
+table {
+    border: 2.5px solid red;
+    padding: 8px;
+}
+
+th {
+    font-size: 25px ;
+    font-family: bazooka ;
+    background-color: #4472C4;
+    border: 1px green;
+}
+
+td {
+  background-color: #E6E6E6;
+  font-family: Brush738 BT;
+  border: 1px red;
+  padding: 2px;
+}
+
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+}
